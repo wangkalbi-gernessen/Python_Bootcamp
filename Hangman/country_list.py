@@ -1,0 +1,1 @@
+country_list = ["Japan", "Germany", "Argentina", "Jamaica", "Egypt", "Thailand"]
